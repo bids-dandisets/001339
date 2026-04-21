@@ -4,7 +4,10 @@
     "HEDVersion": "8.3.0",
     "Description": "2-photon calcium imaging in Trigeminal ganglion / lateral hypothalamus using hot/cold flow stimuli",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Balakrishnan, Kaarthik A",
+        "Haesemeyer, Martin"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
